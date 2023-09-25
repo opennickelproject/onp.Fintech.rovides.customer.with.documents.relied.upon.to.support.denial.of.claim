@@ -16,9 +16,9 @@ metadata:
   organisation-id: onp
   pattern-categories:
   - Other
-  pattern-description: Fintech rovides customer with documents relied upon to support
+  pattern-description: Fintech provides customer with documents relied upon to support
     denial of claim
-  pattern-id: onp.Fintech.rovides.customer.with.documents.relied.upon.to.support.denial.of.claim
+  pattern-id: onp.Fintech.provides.customer.with.documents.relied.upon.to.support.denial.of.claim
   pattern-name: Fintech rovides customer with documents relied upon to support denial
     of claim
   pattern-version: 1.0.0
