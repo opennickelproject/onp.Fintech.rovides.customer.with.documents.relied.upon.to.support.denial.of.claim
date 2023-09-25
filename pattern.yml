@@ -1,11 +1,13 @@
 metadata:
-  pattern-id: onp.base.template
-  pattern-name: base-template
-  organisation-id: onp
+  organisation-id: demobank
+  pattern-categories:
+  - Other
+  pattern-description: Fintech provides customer with documents relied upon to support
+    denial of claim
+  pattern-id: onp.Fintech.provides.customer.with.documents.relied.upon.to.support.denial.of.claim
+  pattern-name: Fintech rovides customer with documents relied upon to support denial
+    of claim
   pattern-version: 1.0.0
-  pattern-description: some description here
-  pattern-categories: 
-              - bootstrap
 
 lifecycle:
   create:
